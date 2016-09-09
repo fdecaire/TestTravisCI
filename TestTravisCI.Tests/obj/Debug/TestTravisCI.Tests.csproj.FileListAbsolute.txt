@@ -18,22 +18,14 @@ c:\users\fdecaire\documents\visual studio 2015\Projects\TestTravisCI\TestTravisC
 c:\users\fdecaire\documents\visual studio 2015\Projects\TestTravisCI\TestTravisCI.Tests\bin\Debug\xunit.runner.utility.desktop.dll
 c:\users\fdecaire\documents\visual studio 2015\Projects\TestTravisCI\TestTravisCI.Tests\bin\Debug\TestTravisCI.dll
 c:\users\fdecaire\documents\visual studio 2015\Projects\TestTravisCI\TestTravisCI.Tests\bin\Debug\TestTravisCI.pdb
-D:\GitHub\TestTravisCI\TestTravisCI.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
-D:\GitHub\TestTravisCI\TestTravisCI.Tests\bin\Debug\xunit.runner.utility.desktop.dll
 D:\GitHub\TestTravisCI\TestTravisCI.Tests\bin\Debug\xunit.abstractions.dll
 D:\GitHub\TestTravisCI\TestTravisCI.Tests\bin\Debug\TestTravisCI.Tests.dll
 D:\GitHub\TestTravisCI\TestTravisCI.Tests\bin\Debug\TestTravisCI.Tests.pdb
 D:\GitHub\TestTravisCI\TestTravisCI.Tests\bin\Debug\TestTravisCI.dll
-D:\GitHub\TestTravisCI\TestTravisCI.Tests\bin\Debug\xunit.assert.dll
-D:\GitHub\TestTravisCI\TestTravisCI.Tests\bin\Debug\xunit.core.dll
-D:\GitHub\TestTravisCI\TestTravisCI.Tests\bin\Debug\xunit.execution.desktop.dll
 D:\GitHub\TestTravisCI\TestTravisCI.Tests\bin\Debug\TestTravisCI.pdb
-D:\GitHub\TestTravisCI\TestTravisCI.Tests\bin\Debug\xunit.assert.pdb
-D:\GitHub\TestTravisCI\TestTravisCI.Tests\bin\Debug\xunit.assert.xml
-D:\GitHub\TestTravisCI\TestTravisCI.Tests\bin\Debug\xunit.core.pdb
-D:\GitHub\TestTravisCI\TestTravisCI.Tests\bin\Debug\xunit.core.xml
-D:\GitHub\TestTravisCI\TestTravisCI.Tests\bin\Debug\xunit.execution.desktop.pdb
-D:\GitHub\TestTravisCI\TestTravisCI.Tests\bin\Debug\xunit.execution.desktop.xml
 D:\GitHub\TestTravisCI\TestTravisCI.Tests\obj\Debug\TestTravisCI.Tests.csprojResolveAssemblyReference.cache
 D:\GitHub\TestTravisCI\TestTravisCI.Tests\obj\Debug\TestTravisCI.Tests.dll
 D:\GitHub\TestTravisCI\TestTravisCI.Tests\obj\Debug\TestTravisCI.Tests.pdb
+D:\GitHub\TestTravisCI\TestTravisCI.Tests\bin\Debug\xunit.dll
+D:\GitHub\TestTravisCI\TestTravisCI.Tests\bin\Debug\xunit.xml
+D:\GitHub\TestTravisCI\TestTravisCI.Tests\bin\Debug\xunit.abstractions.xml

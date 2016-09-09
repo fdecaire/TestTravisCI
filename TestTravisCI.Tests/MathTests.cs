@@ -16,7 +16,7 @@ namespace TestTravisCI.Tests
 		{
 			Assert.True(true);
 		}
-
+		/*
 		[Theory]
 		[InlineData(3)]
 		[InlineData(5)]
@@ -33,5 +33,6 @@ namespace TestTravisCI.Tests
 		{
 			Assert.Equal(val1 + val2, MyMathFunctions.Add(val1, val2));
 		}
+		*/
 	}
 }

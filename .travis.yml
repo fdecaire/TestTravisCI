@@ -2,7 +2,7 @@ language: csharp
 solution: TestTravisCI.sln
 install:
   - nuget restore TestTravisCI.sln
-  - nuget install xunit.runners -Version 2.0.0 -OutputDirectory testrunner
+  - nuget install xunit.runners -Version 1.9.2 -OutputDirectory testrunner
 script:
   - xbuild /p:Configuration=Release TestTravisCI.sln
-  - mono ./testrunner/xunit.runner.console.2.1.0/tools/xunit.console.exe ./TestTravisCI.Tests/bin/Release/TestTravisCI.Tests.dll
+  - mono ./testrunner/xunit.runners.1.9.2/tools/xunit.console.clr4.exe ./TestTravisCI.Tests/bin/Release/TestTravisCI.Tests.dll
