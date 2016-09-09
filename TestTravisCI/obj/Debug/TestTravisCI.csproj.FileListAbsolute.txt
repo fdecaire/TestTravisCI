@@ -1,0 +1,5 @@
+c:\users\fdecaire\documents\visual studio 2015\Projects\TestTravisCI\TestTravisCI\bin\Debug\TestTravisCI.dll
+c:\users\fdecaire\documents\visual studio 2015\Projects\TestTravisCI\TestTravisCI\bin\Debug\TestTravisCI.pdb
+c:\users\fdecaire\documents\visual studio 2015\Projects\TestTravisCI\TestTravisCI\obj\Debug\TestTravisCI.csprojResolveAssemblyReference.cache
+c:\users\fdecaire\documents\visual studio 2015\Projects\TestTravisCI\TestTravisCI\obj\Debug\TestTravisCI.dll
+c:\users\fdecaire\documents\visual studio 2015\Projects\TestTravisCI\TestTravisCI\obj\Debug\TestTravisCI.pdb
