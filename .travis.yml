@@ -5,4 +5,4 @@ install:
   - nuget install xunit.runners -Version 2.0.0 -OutputDirectory testrunner
 script:
   - xbuild /p:Configuration=Release TestTravisCI.sln
-  - mono ./testrunner/xunit.runners.console.2.1.0/tools/xunit.console.exe ./TestTravisCI.Tests/bin/Release/TestTravisCI.Tests.dll
+  - mono ./testrunner/xunit.runner.console.2.1.0/tools/xunit.console.exe ./TestTravisCI.Tests/bin/Release/TestTravisCI.Tests.dll
