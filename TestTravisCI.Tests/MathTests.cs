@@ -1,4 +1,5 @@
-﻿using Xunit;
+﻿
+using Xunit;
 
 namespace TestTravisCI.Tests
 {
