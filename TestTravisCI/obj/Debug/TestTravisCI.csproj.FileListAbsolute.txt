@@ -3,3 +3,7 @@ c:\users\fdecaire\documents\visual studio 2015\Projects\TestTravisCI\TestTravisC
 c:\users\fdecaire\documents\visual studio 2015\Projects\TestTravisCI\TestTravisCI\obj\Debug\TestTravisCI.csprojResolveAssemblyReference.cache
 c:\users\fdecaire\documents\visual studio 2015\Projects\TestTravisCI\TestTravisCI\obj\Debug\TestTravisCI.dll
 c:\users\fdecaire\documents\visual studio 2015\Projects\TestTravisCI\TestTravisCI\obj\Debug\TestTravisCI.pdb
+D:\GitHub\TestTravisCI\TestTravisCI\obj\Debug\TestTravisCI.dll
+D:\GitHub\TestTravisCI\TestTravisCI\obj\Debug\TestTravisCI.pdb
+D:\GitHub\TestTravisCI\TestTravisCI\bin\Debug\TestTravisCI.dll
+D:\GitHub\TestTravisCI\TestTravisCI\bin\Debug\TestTravisCI.pdb
