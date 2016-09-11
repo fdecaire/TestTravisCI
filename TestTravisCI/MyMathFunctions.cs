@@ -2,7 +2,7 @@
 {
     public static class MyMathFunctions
     {
-		public static bool IsOdd(int value)
+		public static bool IsOdd(this int value)
 		{
 			return value % 2 == 1;
 		}

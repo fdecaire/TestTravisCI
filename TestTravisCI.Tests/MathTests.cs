@@ -16,14 +16,14 @@ namespace TestTravisCI.Tests
 		{
 			Assert.True(true);
 		}
-		/*
+		
 		[Theory]
 		[InlineData(3)]
 		[InlineData(5)]
 		[InlineData(7)]
 		public void TestIsOdd(int value)
 		{
-			Assert.True(MyMathFunctions.IsOdd(value));
+			Assert.True(value.IsOdd());
 		}
 
 		[Theory]
@@ -31,8 +31,7 @@ namespace TestTravisCI.Tests
 		[InlineData(23,12)]
 		public void TestAdd(double val1, double val2)
 		{
-			Assert.Equal(val1 + val2, MyMathFunctions.Add(val1, val2));
+			Assert.Equal(val1 + val2, val1.Add(val2));
 		}
-		*/
 	}
 }
